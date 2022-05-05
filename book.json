@@ -1,0 +1,108 @@
+{
+    "books_id": "216290319",
+    "title": "Infinite Jest",
+    "sortcharacter": "1",
+    "public": "true",
+    "primaryauthor": "Wallace, David Foster",
+    "primaryauthorrole": "Author",
+    "authors": [
+        {
+            "lf": "Wallace, David Foster",
+            "fl": "David Foster Wallace",
+            "role": "Author"
+        }
+    ],
+    "collections_idA": [
+        1
+    ],
+    "collections": [
+        "Your library"
+    ],
+    "originalisbn": "0316066524",
+    "isbn": {
+        "0": "0316066524",
+        "2": "9780316066525"
+    },
+    "asin": "0316066524",
+    "ean": [
+        "0316066524"
+    ],
+    "publication": "Back Bay Books (2006), Edition: Tenth Anniversary ed., 1079 pages",
+    "date": "2006",
+    "summary": "Infinite Jest by David Foster Wallace (2006)",
+    "language": [
+        "English"
+    ],
+    "language_codeA": [
+        "eng"
+    ],
+    "originallanguage": [
+        "English"
+    ],
+    "originallanguage_codeA": [
+        "eng"
+    ],
+    "lcc": {
+        "code": "PS3573.A425635 I54"
+    },
+    "subject": {
+        "0": [
+            "Addicts",
+            "Fiction"
+        ],
+        "2": [
+            "Compulsive behavior",
+            "Fiction"
+        ],
+        "4": [
+            "Humorous Stories"
+        ],
+        "5": [
+            "Humorous stories"
+        ],
+        "7": [
+            "humorous stories"
+        ]
+    },
+    "awards": [
+        "Time's All-Time 100 Novels selection",
+        "Time Magazine's Best Books of the Year",
+        "Larry McCaffery's 20th Century Greatest Hits",
+        "1001 Books You Must Read Before You Die",
+        "Guardian 1000",
+        "Salon Book Award",
+        "100 Essential New England Books",
+        "61 Essential Postmodern Reads",
+        "From Zero to Well-Read in 100 Books",
+        "Harvard Bookstore Top 100",
+        "The Most Important Books of the Last Twenty Years",
+        "1,000 Books to Read Before You Die Page-A-Day Calendar 2021"
+    ],
+    "genre": [
+        "General Fiction",
+        "All Topics",
+        "Fiction"
+    ],
+    "genre_id": [
+        "2",
+        "8292535",
+        "17160326"
+    ],
+    "source": "amazon.com books",
+    "workcode": "903",
+    "entrydate": "2022-05-04",
+    "format": [
+        {
+            "code": "1.1.1",
+            "text": "Mjukt band"
+        }
+    ],
+    "copies": "1",
+    "physical_description": "1079 p.; 9.25 inches",
+    "height": "9.25 inches",
+    "thickness": "1.875 inches",
+    "length": "6 inches",
+    "dimensions": "9.25 x 6 x 1.875 inches",
+    "weight": "2.42 pounds",
+    "pages": "1079 "
+}
